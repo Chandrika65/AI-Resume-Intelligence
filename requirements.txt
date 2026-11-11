@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+nltk
+spacy
+sentence-transformers
+fastapi
+uvicorn
+pymupdf
+python-multipart
+matplotlib
+seaborn
